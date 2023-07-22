@@ -1,0 +1,9 @@
+{
+    "name": "Squbany Custom",
+    "description": "nudzilo mi sie to zrobilem",
+    "version": "1.0",
+    "author": "squbanychief",
+    "theme": "SqubanyCustom.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
